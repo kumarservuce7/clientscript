@@ -1,0 +1,2 @@
+# clientscript
+Servicenow clientscript
